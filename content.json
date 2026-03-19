@@ -1,0 +1,294 @@
+{
+  "company": {
+    "name": "DIGITIZING.US",
+    "legalName": "Fixed Price Digitizing",
+    "phone": "401-655-1153",
+    "email": "mail@digitizing.us",
+    "address": "1812 Raspberry Ct, NJ 08817",
+    "partnerSite": "https://usabadge.com",
+    "portalUrl": "https://system.digitizing.systems",
+    "registerUrl": "https://system.digitizing.systems/register",
+    "tagline": "Your digitizer sends a mock-up. We send you a sew-out.",
+    "yearFounded": 1996,
+    "yearsExperience": 30,
+    "designsDelivered": "1M+",
+    "companiesServed": "Thousands"
+  },
+
+  "team": [
+    {
+      "name": "Mike Belanger",
+      "role": "Head of Digitizing",
+      "bio": "30+ years digitizing experience. Started on punch-tape machines before CAD systems existed. Now leads our team and handles all ultra-tough designs personally.",
+      "specialties": ["3D Puff", "Ultra-fine detail", "Complex satin work"]
+    },
+    {
+      "name": "Sandra Torres",
+      "role": "Senior Puncher",
+      "bio": "15 years hand-digitizing logos, crests, and badges. Trained in Wilcom and Pulse. Known for impossibly clean small text and multi-layer satin work.",
+      "specialties": ["Small text", "Multi-color crests", "Script fonts"]
+    },
+    {
+      "name": "Dave Okonkwo",
+      "role": "Testing & QA Lead",
+      "bio": "Runs our testing facility. Former commercial embroidery shop owner — he knows every quirk of Barudan, Happy, Tajima, and older machines from the inside out.",
+      "specialties": ["Machine compatibility", "Cap digitizing", "Tension calibration"]
+    },
+    {
+      "name": "Rachel Kim",
+      "role": "Vector & Artwork",
+      "bio": "Graphic designer turned production artist. Rebuilds logos for screen print, vinyl, DTG, and hard goods. Speaks fluent 'printer' — your output partner will love her files.",
+      "specialties": ["Screen separation", "Color reduction", "DTF artwork"]
+    }
+  ],
+
+  "values": [
+    {
+      "icon": "🧪",
+      "title": "Test Before We Deliver",
+      "desc": "We stitch before we ship. Our sew-out proofs aren't screen renders — they're scans of real thread on real fabric."
+    },
+    {
+      "icon": "💬",
+      "title": "We Tell You If Something Won't Work",
+      "desc": "If text is too small or detail too fine, we tell you upfront and offer alternatives. No surprises on your floor."
+    },
+    {
+      "icon": "💰",
+      "title": "Flat Rates. No Per-Stitch Games.",
+      "desc": "You know what you're paying before you submit. 95% of designs are Simple — $15 flat. No hidden fees."
+    },
+    {
+      "icon": "🤝",
+      "title": "Partners, Not Vendors",
+      "desc": "Many of our clients have been with us for 10+ years. We're the digitizing team that works like part of your shop."
+    }
+  ],
+
+  "milestones": [
+    { "year": "Early 2000s", "event": "Managing an embroidery business. Our digitizer retired. Tried the cheap online services — and learned exactly why they weren't good enough." },
+    { "year": "Mid 2000s", "event": "Shifted focus entirely to digitizing. Built the testing process from scratch: hand-digitize, stitch out, then deliver." },
+    { "year": "2008", "event": "Launched online ordering — one of the first digitizing services to do so" },
+    { "year": "2014", "event": "Passed 500,000 designs delivered milestone" },
+    { "year": "2019", "event": "Added dedicated sew-out testing lab with Barudan and Happy machines" },
+    { "year": "2022", "event": "Launched USABadge.com for patches, badges, and keyrings" },
+    { "year": "2024", "event": "Surpassed 1,000,000 designs delivered" }
+  ],
+
+  "blog": [
+    {
+      "id": "why-cheap-digitizing-costs-more",
+      "title": "Why Cheap Digitizing Usually Costs More",
+      "date": "2026-02-18",
+      "author": "Mike Belanger",
+      "category": "Industry Insights",
+      "readTime": "5 min",
+      "excerpt": "A $8 digitizing file looks like a bargain until it ruins a $60 Carhartt jacket and wastes 45 minutes of machine time. Here's the real math.",
+      "body": [
+        "Every month we get calls from shop owners who tried a budget digitizing service and are now dealing with the fallout. Thread breaks every 300 stitches. Registration that's off by 3mm. Satin stitches pulling through the fabric. It's a pattern so consistent it practically has a name: the cheap file tax.",
+        "Here's the math most people don't run: a simple left chest design costs $8 from a discount service. That same design runs on a 6-head machine and breaks thread 4 times. Each break costs you 3-4 minutes to rethread and restart. On a 6-head, you've lost 20+ minutes of production time. At even $30/hour machine value, that's $10 in lost time — already more than the difference in file cost.",
+        "Then there's the garment. A Carhartt hoodie runs $55-65 wholesale. If the file has density issues and pulls the fabric, or if poor underlay causes puckering you can't press out, that garment is gone. One ruined jacket and you've spent 5x what the 'expensive' digitizer would have charged.",
+        "The deeper issue is that most budget services use auto-digitizing software with human cleanup — they're not hand-digitizing. Auto-punch can't account for fabric behavior, pull compensation, or the specific characteristics of your machine. A file that looks fine on screen can destroy production on old Barudan.",
+        "We test every file on real machines before it leaves us. Yes, that costs more. But when you press start, you know it's going to run."
+      ],
+      "tags": ["digitizing", "cost", "quality", "production"]
+    },
+    {
+      "id": "3d-puff-complete-guide",
+      "title": "3D Puff Embroidery: A Complete Guide for Shop Owners",
+      "date": "2026-01-30",
+      "author": "Dave Okonkwo",
+      "category": "Technical Guides",
+      "readTime": "8 min",
+      "excerpt": "3D puff is one of the most requested techniques — and one of the most misunderstood. Here's everything you need to know before you buy foam.",
+      "body": [
+        "3D puff embroidery creates a raised, dimensional effect by stitching over foam placed on top of the garment. Done right, it looks premium and holds up to washing. Done wrong, the foam collapses, the stitches pull through, and the design looks worse than flat embroidery would have.",
+        "The first thing to understand is that not every design works in puff. Bold, chunky letterforms and simple shapes translate beautifully. Fine detail, serifs, and small text do not — the foam creates a wobble in the stitch line that makes thin elements look sloppy. If your logo has fine lines or small text, we'll tell you upfront and suggest what can be puffed vs. what should stay flat.",
+        "Foam thickness matters. Standard 3mm EVA foam works for most caps. For a more pronounced effect, 6mm is available, but it requires significantly higher stitch density to lock down the foam edges cleanly. We test both options when a design is borderline.",
+        "The digitizing approach for puff is completely different from flat embroidery. You need extra underlay, higher density in the coverage stitches, and a very precise satin border that cuts through the foam cleanly. Path order matters too — you want to lock down the foam edges before stitching the fill, or the foam will shift during the run.",
+        "Machine speed is another variable. We recommend dropping to 600-700 SPM for puff runs, especially on older machines. Higher speeds increase vibration and can cause the foam to shift mid-run.",
+        "When you order puff from us, we test on actual foam on an actual cap blank. We adjust the density, check the foam cutoff, and send you a scanned sew-out proof. You'll know exactly what your customers are getting before you run a production batch."
+      ],
+      "tags": ["3d puff", "caps", "technique", "foam embroidery"]
+    },
+    {
+      "id": "embroidery-file-formats-explained",
+      "title": "Embroidery File Formats Explained (DST, PES, JEF, and 40+ More)",
+      "date": "2026-01-12",
+      "author": "Sandra Torres",
+      "category": "Technical Guides",
+      "readTime": "6 min",
+      "excerpt": "DST? PES? JEF? If you're not sure what format your machine reads, you're not alone. Here's a plain-English guide to the most common embroidery file formats.",
+      "body": [
+        "Every embroidery machine reads a specific stitch file format — essentially a list of instructions telling the needle where to move, when to change color, and when to trim. The format depends on the machine brand and model, and using the wrong one means the file won't load.",
+        "DST (Tajima) is the most universal format. It's the closest thing embroidery has to a standard — most commercial machines and many consumer machines can read it. If you're not sure, start with DST.",
+        "PES is Brother's format. If you run a Brother BAS, PR, or VE series machine, you need PES. Brother machines typically won't load DST files, or will load them with issues. The current standard is PES version 6, though older Brother machines may need version 4 or 5.",
+        "JEF is Janome's format. VP3 is used by Husqvarna Viking and Pfaff. HUS is an older Husqvarna format. SEW is another Janome format for older machines. XXX is Singer.",
+        "The file format itself doesn't affect quality — the digitizing does. A well-digitized file will run clean in any format. A badly-digitized file will have problems in DST, PES, or any other format you try.",
+        "When you order from us, tell us your machine brand and model and we'll deliver the correct format. If you run multiple machines from different brands, we'll include all the formats you need at no extra charge. We support 40+ formats."
+      ],
+      "tags": ["file formats", "DST", "PES", "machines", "technical"]
+    },
+    {
+      "id": "screen-print-vs-embroidery",
+      "title": "Screen Print vs. Embroidery: Which Is Right for Your Order?",
+      "date": "2025-12-20",
+      "author": "Rachel Kim",
+      "category": "Industry Insights",
+      "readTime": "7 min",
+      "excerpt": "Both have their place. Here's how to think about the choice — and what it means for your artwork and pricing.",
+      "body": [
+        "Screen printing and embroidery aren't competing — they serve different purposes. The right choice depends on your garment, your design, your quantity, and what your customer actually wants.",
+        "Embroidery adds a premium feel that screen print can't replicate. Thread has texture, depth, and a perceived quality that reads as 'professional' in a way that ink doesn't. Corporate clients, sports teams, and premium brands usually want embroidery for left chests and caps.",
+        "Screen print is better for large designs with fine detail, gradients, or lots of colors. Back designs with photographic elements or complex gradients are almost always better as screen print. Embroidery has physical limits — very fine lines get lost in thread texture, and true gradients aren't possible.",
+        "On pricing, the comparison isn't as simple as per-piece cost. Embroidery has a one-time digitizing fee (from $15), then a per-piece embroidery cost that's typically $3-8 depending on stitch count and location. Screen printing has higher setup costs (screen fees, $25-50 per color) but lower per-piece costs at volume.",
+        "For quantities under 24, embroidery often wins on total cost. For large runs of printed tees, screen print wins. For left chests on professional workwear, embroidery almost always wins regardless of quantity.",
+        "Our artwork team can prepare files for either output — separated screen print files or digitized embroidery, depending on what your production requires."
+      ],
+      "tags": ["screen print", "embroidery", "comparison", "production"]
+    }
+  ],
+
+  "faq": [
+    {
+      "q": "How much does digitizing cost?",
+      "a": "Simple left chest designs start at $15 (Standard 1-2 days) or $19 (Express next-day). Complex designs from $25. Back designs from $35. 95% of designs fall in the Simple category. New customers get 50% off their first 2 designs."
+    },
+    {
+      "q": "What file formats do you deliver?",
+      "a": "We deliver in any stitch format your machine needs — DST, PES, JEF, EXP, VP3, HUS, and 40+ others. We digitize in Wilcom (preferred) and also support Pulse, Melco, and Compucon. Not sure which format? Tell us your machine brand and we'll figure it out."
+    },
+    {
+      "q": "Do you test designs on real machines?",
+      "a": "Yes. We have a dedicated testing facility with commercial Barudan and Happy embroidery machines, including older models. When we're not confident a design will run cleanly, we stitch it out on real fabric and send you a scanned sew-out proof."
+    },
+    {
+      "q": "What is a sew-out proof?",
+      "a": "A sew-out proof is a photograph or scan of your design actually stitched onto fabric — not a screen rendering. It shows you exactly how the design will look when embroidered, including thread texture, color accuracy, and any potential issues."
+    },
+    {
+      "q": "How small can text go in embroidery?",
+      "a": "Generally 4-5mm letter height with clean results. We optimize for thin threads (60wt) for the sharpest small text. If we can't achieve legible text at your requested size, we offer alternative layouts with a mock-up for your approval."
+    },
+    {
+      "q": "What is 3D puff embroidery?",
+      "a": "3D puff uses foam underneath the stitching to create a raised, dimensional effect. It works best with bold, simple designs — fine details and small text don't work well on foam. We test every puff design to ensure the foam holds its shape."
+    },
+    {
+      "q": "What turnaround times do you offer?",
+      "a": "Standard: 1-2 business days. Express: next business day. Quotes (mock-up + stitch count) typically take 6-7 hours."
+    },
+    {
+      "q": "Can you digitize for old machines?",
+      "a": "Yes. We test on both modern and older commercial machines. If your shop runs 15-20 year old equipment, we understand its limitations and digitize accordingly — adjusting stitch density, path complexity, and format compatibility."
+    },
+    {
+      "q": "What if I'm not happy with the design?",
+      "a": "Edits are included. If the design needs changes, we revise it at no extra charge. If a fundamental redesign is needed, edit fees start at $10 flat regardless of your plan."
+    },
+    {
+      "q": "Do you store my credit card details?",
+      "a": "No. We never store your credit card information. All payments are processed through secure third-party payment processors."
+    },
+    {
+      "q": "What's the difference between simple and complex?",
+      "a": "Simple designs (95% of orders) are standard logos, text, and straightforward artwork. Complex designs have extensive fine detail, many small elements, intricate patterns, or techniques like multi-layer 3D puff. Ultra Tough designs with extreme complexity are always quoted individually."
+    },
+    {
+      "q": "Do you offer patches and badges?",
+      "a": "Yes — we produce a full range of custom patches: cloth patches (embroidered, woven, printed), silicone and PVC patches, raised silicone transfers, and custom keyrings. Minimum 25 pieces. Orders are placed through our partner site USABadge.com."
+    },
+    {
+      "q": "What's the minimum order for patches?",
+      "a": "25 pieces for all patch types. Pricing per unit drops at higher quantities — ask for volume pricing at 100+ pieces."
+    },
+    {
+      "q": "How long does patch production take?",
+      "a": "2-3 weeks from artwork approval including shipping. Rush available for additional fee. Digital proof before production, physical sample available for first orders."
+    }
+  ],
+
+  "pricing": {
+    "digitizing": [
+      { "type": "Left Chest — Simple (95%)", "standard": "$15", "express": "$19" },
+      { "type": "Left Chest — Complex", "standard": "$25", "express": "$30" },
+      { "type": "Left Chest — Ultra Tough", "standard": "Quote", "express": "Quote" },
+      { "type": "Cap / Hat — Simple", "standard": "$20", "express": "$24" },
+      { "type": "Cap / Hat — Complex", "standard": "$30", "express": "$35" },
+      { "type": "Back Design — Simple", "standard": "$35", "express": "$45" },
+      { "type": "Back Design — Complex", "standard": "$50", "express": "$60" },
+      { "type": "Back Design — Ultra Tough", "standard": "Quote", "express": "Quote" },
+      { "type": "Edit / Resize (all plans)", "standard": "$10", "express": "$10" }
+    ],
+    "artwork": [
+      { "type": "Standard Vectoring", "price": "$7/hr", "note": "Full rebuild, all formats" },
+      { "type": "Simple Logo Trace", "price": "$15 flat", "note": "1-3 color logos" }
+    ],
+    "newCustomerOffer": {
+      "discount": "50%",
+      "applies": "First 2 digitizing orders",
+      "code": "None required — applied automatically",
+      "eligibility": "New customers only"
+    }
+  },
+
+  "formats": ["DST","PES","JEF","EXP","VP3","HUS","XXX","SEW","PCS","EMB","ART","TAP","BRO"],
+
+  "contact": {
+    "phone": "401-655-1153",
+    "email": "mail@digitizing.us",
+    "address": "1812 Raspberry Ct, NJ 08817",
+    "hours": {
+      "weekdays": "9am – 6pm ET",
+      "saturday": "10am – 3pm ET",
+      "sunday": "Closed"
+    },
+    "responseTime": {
+      "email": "Within 2 business hours",
+      "quotes": "6-7 hours",
+      "chat": "Typically minutes"
+    }
+  },
+
+  "terms": {
+    "lastUpdated": "2026-01-01",
+    "sections": [
+      {
+        "title": "Services",
+        "content": "Fixed Price Digitizing (\"Digitizing.US\") provides embroidery digitizing, vector artwork conversion, and facilitates custom patch orders through partner sites. By submitting an order, you agree to these terms."
+      },
+      {
+        "title": "Pricing & Payment",
+        "content": "All prices are listed in USD. Flat-rate pricing applies as shown on the Pricing page. We never store credit card information. Payment is processed at time of order through secure third-party processors. Express pricing applies to next-business-day delivery and is charged at the rates listed."
+      },
+      {
+        "title": "Turnaround Times",
+        "content": "Standard turnaround is 1-2 business days from order confirmation and artwork approval. Express is next business day. Times are estimates and may vary during high-volume periods. We will notify you of any delays."
+      },
+      {
+        "title": "Revisions & Edits",
+        "content": "Minor edits and revisions are included with all orders at no charge. Fundamental redesigns or major changes to approved artwork are billed at $10 flat. We will notify you before billing any revision charges."
+      },
+      {
+        "title": "File Ownership",
+        "content": "Upon full payment, you own the digitized file. We retain a copy for 30 days for revision purposes. We do not sell, share, or re-use your artwork or files with third parties."
+      },
+      {
+        "title": "Artwork Submissions",
+        "content": "By submitting artwork, you confirm you have the right to use and reproduce that artwork. We accept no liability for trademark, copyright, or intellectual property issues arising from artwork submitted by customers."
+      },
+      {
+        "title": "Refunds",
+        "content": "If a delivered file is materially defective and cannot be corrected with revisions, we offer a full refund. We do not offer refunds for design choices or style preferences after approval. Refund requests must be made within 14 days of delivery."
+      },
+      {
+        "title": "Privacy",
+        "content": "We collect only the information necessary to process your order: name, company, email, phone, and design files. We do not sell or share your data. We do not store payment information. Design files are stored for 30 days then deleted unless you are an active account holder."
+      },
+      {
+        "title": "Contact",
+        "content": "For any terms or privacy questions, contact us at mail@digitizing.us or call 401-655-1153."
+      }
+    ]
+  }
+}
